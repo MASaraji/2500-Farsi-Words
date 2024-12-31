@@ -12,7 +12,6 @@ This repository contains a list of the most frequently used words in Farsi (Pers
    ```bash
    git clone https://github.com/your-username/Farsi2500.git
 
-
 ## 🤝 Contributions
 Contributions are welcome!
 1. Fork this repository.
