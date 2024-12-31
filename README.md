@@ -1,14 +1,10 @@
-# 2500-Farsi-Words
+# Most Frequent Farsi Words
 
-This repository contains a list of the 2,500 most frequently used words in Farsi (Persian). It's a simple and useful resource for:
-
-- Language learners
-- Developers
-- Researchers
+This repository contains a list of the most frequently used words in Farsi (Persian).
 
 ## 📂 Files
 
-- `words.csv`: Contains the 2,500 words collected from wikipedia
+- `2500-words-wikipedia.csv`: Contains the 2,500 words collected from wikipedia
 
 ## 🚀 How to Use
 
@@ -16,7 +12,6 @@ This repository contains a list of the 2,500 most frequently used words in Farsi
    ```bash
    git clone https://github.com/your-username/Farsi2500.git
 
-2. Open `words.csv` to explore the vocabulary
 
 ## 🤝 Contributions
 Contributions are welcome!
