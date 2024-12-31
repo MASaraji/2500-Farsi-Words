@@ -18,7 +18,7 @@ This repository contains a list of the 2,500 most frequently used words in Farsi
 
 2. Open `words.csv` to explore the vocabulary
 
-🤝 Contributions
+## 🤝 Contributions
 Contributions are welcome!
 1. Fork this repository.
 2. Make your changes.
@@ -26,5 +26,5 @@ Contributions are welcome!
 
 
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
